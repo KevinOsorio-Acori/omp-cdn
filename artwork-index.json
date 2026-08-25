@@ -2,7 +2,7 @@
     {
         "type": "vehicle",
         "id": 579,
-        "dff": "CadillacEscalade",
-        "txd": "CadillacEscalade"
+        "dff": "CadillacEscalade.dff",
+        "txd": "CadillacEscalade.txd"
     }
 ]
