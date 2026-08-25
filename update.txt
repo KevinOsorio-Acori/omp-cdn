@@ -1,2 +1,0 @@
-version=1.0
-url=https://kevinosorio-acori.github.io/omp-cdn
