@@ -1,8 +1,12 @@
 [
     {
-        "type": "vehicle",
-        "id": 579,
-        "dff": "CadillacEscalade.dff",
-        "txd": "CadillacEscalade.txd"
+        "file": "CadillacEscalade.dff",
+        "type": "dff",
+        "id": 579
+    },
+    {
+        "file": "CadillacEscalade.txd",
+        "type": "txd",
+        "id": 579
     }
 ]
